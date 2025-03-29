@@ -1,4 +1,4 @@
-# Ex-2A Linux-Commands
+# Ex-01-Linux-Commands
 
 NAME: SINDHUJA P
 
