@@ -1,5 +1,8 @@
 # Ex-01-Linux-Commands
 
+NAME: SINDHUJA P
+
+REG NO: 212222220047
 
 ## Aim:
 
